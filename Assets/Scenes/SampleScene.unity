@@ -2082,7 +2082,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 86fbf39ce57ebde4988a584bed3d91cd, type: 3}
       propertyPath: m_Name
-      value: G_Bag_Paper_02
+      value: VertexColor
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 86fbf39ce57ebde4988a584bed3d91cd, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4682992962116769191, guid: 86fbf39ce57ebde4988a584bed3d91cd, type: 3}
       propertyPath: m_LocalPosition.x
